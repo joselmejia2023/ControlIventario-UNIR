@@ -1,0 +1,38 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "color-scheme",
+          "scroll-behavior",
+          "-webkit-tap-highlight-color",
+          "-webkit-text-size-adjust",
+          "text-align: -webkit-match-parent",
+          "text-underline-offset",
+          "overflow-anchor"
+        ]
+      }
+    ]
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 119",
+    "not and_ff <= 119",
+    "not chrome <= 118",
+    "not edge <= 118",
+    "not firefox <= 119",
+    "not ios_saf <= 17",
+    "not opera <= 103",
+    "not safari <= 17",
+    "not samsung <= 23",
+    "not chrome <= 119",
+    "not edge <= 119",
+    "not ios_saf <= 17.1",
+    "not safari <= 17.1"
+  ]
+}

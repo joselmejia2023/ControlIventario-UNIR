@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "50",
+      "nombre": "PHARMATON VITALITY CAPX30",
+      "categoria": "VITAMINA",
+      "precio": "5.80",
+      "stock": "25",
+      "Precio": "5.8",
+      "imagen": "https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/203P-3.jpg"
+    },
+    {
+      "id": "51",
+      "nombre": "APRONAX TABX275MGX20",
+      "categoria": "MEDICINA",
+      "precio": "14.35",
+      "stock": "12",
+      "imagen": "https://www.kuyuna.com/wp-content/uploads/2021/08/APRONAX-275MG.jpg"
+    },
+    {
+      "id": "52",
+      "nombre": "JABON ANGELINO MANZX125GR",
+      "categoria": "PRODUCTOS BEBE",
+      "precio": "8.50",
+      "stock": "24",
+      "imagen": "https://www.supermercadosantamaria.com/documents/10180/10504/33141_G.jpg"
+    },
+    {
+      "id": "54",
+      "nombre": "LECHE NIDO 400GR",
+      "categoria": "NUTRICION",
+      "precio": "16.40",
+      "stock": "36",
+      "imagen": "https://d2o812a6k13pkp.cloudfront.net/Productos/40362802_0120220902131908.jpg"
+    },
+    {
+      "id": "57",
+      "nombre": "PAÑALES PANOLINE G X 20",
+      "categoria": "PAÑALES",
+      "precio": "25.98",
+      "stock": "10",
+      "image": "https://pequeayuda.com/wp-content/uploads/2021/03/96685-0.jpg",
+      "imagen": "https://pequeayuda.com/wp-content/uploads/2021/03/96685-0.jpg"
+    },
+    {
+      "id": "56",
+      "nombre": "MENTICOL ROJO 300 ML",
+      "categoria": "MENTICOL",
+      "precio": "6.25",
+      "stock": "12",
+      "imagen": "https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/1110P-1.jpg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

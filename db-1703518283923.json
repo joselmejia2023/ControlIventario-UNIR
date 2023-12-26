@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Nombre": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "SDSD",
+      "author": "ASAS"
+    },
+    {
+      "id": "3",
+      "title": "2541",
+      "author": "222"
+    },
+    {
+      "id": "PBw8Fpd",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "0ATreFg",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "4",
+      "nombre": "ttrt",
+      "author": "ere"
+    },
+    {
+      "codigo": "15",
+      "nombre": "APRONAX",
+      "categoria": "MEDICINA",
+      "id": "kTt_fR7"
+    },
+    {
+      "id": "34",
+      "nombre": "gdf",
+      "categoria": "dfdf",
+      "precio": "",
+      "stock": ""
+    },
+    {
+      "id": "50",
+      "nombre": "PHARMATON VITALITY CAPX30",
+      "categoria": "VITAMINA",
+      "precio": "5.80",
+      "stock": "25"
+    },
+    {
+      "id": "51",
+      "nombre": "APRONAX TABX275MGX20",
+      "categoria": "MEDICINA",
+      "precio": "14.35",
+      "stock": "12"
+    },
+    {
+      "id": "52",
+      "nombre": "JABON ANGELINO MANZX125GR",
+      "categoria": "PRODUCTOS BEBE",
+      "precio": "8.50",
+      "stock": "24"
+    },
+    {
+      "id": "54",
+      "nombre": "LECHE NIDO 400GR",
+      "categoria": "NUTRICION",
+      "precio": "16.40",
+      "stock": "36"
+    },
+    {
+      "id": "21566",
+      "nombre": "26526",
+      "categoria": "",
+      "precio": "262",
+      "stock": "551"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
